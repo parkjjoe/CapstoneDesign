@@ -1,0 +1,18 @@
+// settings.gradle (Project Settings)
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' } // JitPack으로 github에서 라이브러리를 가져와 사용
+    }
+}
+rootProject.name = "CapstoneDesign"
+include ':app'
