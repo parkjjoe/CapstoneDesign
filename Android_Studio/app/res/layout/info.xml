@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="BACK" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="SOURCE" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_view0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:textColor="@color/black" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:padding="10dp"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:background="#000000">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/front"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:text="정자세"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/front_hurray"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="만세한\n정자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view3"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/front_left_raised"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view3"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="왼팔 올린\n정자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view4"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/front_right_raised"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view4"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="오른팔 올린\n정자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view5"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/left"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view5"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="왼쪽으로\n누운 자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+        </TableRow>
+
+        <TableRow
+            android:background="#000000">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view6"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/back"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view6"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:text="엎드린 자세"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view7"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/back_hurray"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view7"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="만세한\n엎드린 자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view8"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/back_left"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view8"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="왼팔 올린\n엎드린 자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view9"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/back_right"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view9"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="오른팔 올린\n엎드린 자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="1dp"
+                android:background="#FFFFFF">
+
+                <ImageView
+                    android:id="@+id/image_view10"
+                    android:layout_width="match_parent"
+                    android:layout_height="170dp"
+                    android:src="@drawable/right"
+                    android:elevation="0dp" />
+
+                <TextView
+                    android:id="@+id/text_view10"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="오른쪽으로\n누운 자세"
+                    android:gravity="center"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
