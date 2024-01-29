@@ -13,9 +13,5 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 ## Flow Chart
 ![Capstone Design Flow Chart](https://github.com/parkjjoe/capstone-design/assets/105961163/65fff919-495e-40cc-a756-18885438fcb8)
 
-## Files Description
-### Google Colab
-
-### Android Studio
-
-Coming soon..
+## How the app works
+Coming soon...
