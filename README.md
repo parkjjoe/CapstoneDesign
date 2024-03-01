@@ -14,7 +14,7 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 ![Capstone Design Flow Chart](https://github.com/parkjjoe/capstone-design/assets/105961163/65fff919-495e-40cc-a756-18885438fcb8)
 
 ## Usage
-### MAIN
+### 🔴 MAIN
 ![MAIN1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/67d876e8-0436-4958-b968-68690e37b568)
 
 When you first run the app, this screen appears. Only the '**INFO**' and '**SELECT**' buttons are activated.
@@ -34,7 +34,7 @@ When you click the '**CLASSIFY**' button, the images are extracted from the uplo
 
 The txt files are written as shown in the picture above. One is used in the INFO, RECORD, and STAT screens, and the other is used in the HISTORY and HISTORY2 screens. Up to 30 txt files used in HISTORY and HISTORY2 are stored, and more are stored in place of the oldest file.
 
-### INFO
+### 🟠 INFO
 ![INFO1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/83f00dad-0082-4fc4-99e9-c90e598cbf01)
 
 When you click the '**INFO**' button on the MAIN screen, this screen appears.
@@ -48,25 +48,25 @@ When you click the image in the table below, the pros, cons and improvement info
 
 When you click the '**INFO**' button on the MAIN screen after classifying, classified classes are displayed at the top, and the classes are in bold in the table below.
 
-### RECORDS
+### 🟡 RECORDS
 ![RECORDS1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/f7b580eb-27ab-4561-8537-0302db08a5b4)
 ![RECORDS2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/07562bc6-9dc7-4783-9640-dc36fabba559)
 
 When you click '**RECORDS**' button on the MAIN screen after classifying, you can see the image extracted for each frame and the classification class of the image. If you click any image, the image will be enlarged in the center of the screen.
 
-### HISTORY (RECORDS)
+### 🟢 HISTORY (RECORDS)
 ![HISTORY_RECORDS](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a1658b5e-d243-4770-ad0f-2243a7f9ee94)
 
 When you click '**HISTORY**' button on the RECORDS screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the RECORDS screen.
 
-### STAT
+### 🔵 STAT
 ![STAT1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a5be08b2-48bd-44b2-86f5-273c5706d3fc)
 ![STAT2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/dfb9a8e8-9d18-481e-8303-86baa05a2fa2)
 ![STAT3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/aaf07677-27d7-4898-b977-1e2db5c18119)
 
 When you click '**STAT**' button on the MAIN screen after classifying, you can see the most classified class and representative image, a chart of changes in sleep position over time, and a chart of sleep position percentage indicators.
 
-### HISTORY2 (STAT)
+### 🟣 HISTORY2 (STAT)
 ![HISTORY2_STAT](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/bb138211-ca0e-4751-baef-936363f04f53)
 
 Like the previous HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the STAT screen.
