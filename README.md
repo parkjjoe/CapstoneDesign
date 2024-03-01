@@ -42,7 +42,7 @@ When you click the '**INFO**' button on the MAIN screen, this screen appears.
 ![INFO2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/9cd1dc61-9625-4dfd-8c54-1cae8653612d)
 ![SOURCE1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/37c2ce6f-b407-483e-a4ed-c4a4bfb609fd)
 
-When you click the image in the table below, the pros, cons and improvement information of that sleeping position are displayed in a dialog window. When you click the '**SOURCE**' button, the sources for the images and information are written.
+When you click the image in the table below, the pros, cons and improvement information of that sleep position are displayed in a dialog window. When you click the '**SOURCE**' button, the sources for the images and information are written.
 
 ![INFO3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/05f8b358-ebaa-4023-87a0-7dba67c9dc9e)
 
