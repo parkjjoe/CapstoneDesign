@@ -17,7 +17,7 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 ### MAIN
 ![MAIN1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/67d876e8-0436-4958-b968-68690e37b568)
 
-When you first run the app, this screen appears. Only the '**INFO**' and '**SELECT**' button are activated.
+When you first run the app, this screen appears. Only the '**INFO**' and '**SELECT**' buttons are activated.
 
 ![MAIN2_Select_Video1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/c7ad2895-12b5-4be9-920c-602601c76fcf)
 ![MAIN3_Select_Video2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/66e73211-db04-46ce-9578-bac4db5c4483)
