@@ -35,3 +35,15 @@ When you click the '**CLASSIFY**' button, the images are extracted from the uplo
 The txt files are written as shown in the picture above. One is used in the INFO, RECORD, and STAT screens, and the other is used in the HISTORY and HISTORY2 screens. Up to 30 txt files used in HISTORY and HISTORY2 are stored, and more are stored in place of the oldest file.
 
 ### INFO
+![INFO1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/83f00dad-0082-4fc4-99e9-c90e598cbf01)
+
+When you click the '**INFO**' button on the MAIN screen, this screen appears.
+
+![INFO2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/9cd1dc61-9625-4dfd-8c54-1cae8653612d)
+![SOURCE1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/37c2ce6f-b407-483e-a4ed-c4a4bfb609fd)
+
+When you click the image in the table below, the pros, cons and improvement information of that sleeping position are displayed in a dialog window. When you click the '**SOURCE**' button, the sources for the images and information are written.
+
+![INFO3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/05f8b358-ebaa-4023-87a0-7dba67c9dc9e)
+
+When you click the '**INFO**' button on the MAIN screen after classifying, classified classes are displayed at the top, and the classes are in bold in the table below.
