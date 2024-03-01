@@ -28,7 +28,7 @@ When you click the '**SELECT**' button, you can select a video. After selecting 
 ![MAIN5_CLASSIFY](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/02ee86ab-976e-4f67-9392-554c93e8d986)
 ![MAIN6_After_Classifying](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/1dfdfcab-0627-41aa-8447-c1a8a2d4ee21)
 
-When you click the '*CLASSIFY*' button, the images are extracted from the uploaded video in designated frame units. The video path, classification results, and extracted frame units are written and stored in a total of two txt files. After classifying, you can click the '**RECORDS**' and '**STAT**' buttons.
+When you click the '**CLASSIFY**' button, the images are extracted from the uploaded video in designated frame units. The video path, classification results, and extracted frame units are written and stored in a total of two txt files. After classifying, you can click the '**RECORDS**' and '**STAT**' buttons.
 
 ![classification.txt](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/4c1b239c-b8e4-41e0-a848-406433ec6832)
 
