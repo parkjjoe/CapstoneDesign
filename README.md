@@ -57,16 +57,16 @@ When you click '**RECORDS**' button on the MAIN screen after classifying, you ca
 ### HISTORY (RECORDS)
 ![HISTORY_RECORDS](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a1658b5e-d243-4770-ad0f-2243a7f9ee94)
 
-When you click '**HISTORY**' button on the RECORDS screen, you should choose one txt file. After that, the classification information created in the selected txt file is output as if displayed on the RECORDS screen.
+When you click '**HISTORY**' button on the RECORDS screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the RECORDS screen.
 
 ### STAT
 ![STAT1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a5be08b2-48bd-44b2-86f5-273c5706d3fc)
 ![STAT2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/dfb9a8e8-9d18-481e-8303-86baa05a2fa2)
 ![STAT3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/aaf07677-27d7-4898-b977-1e2db5c18119)
 
-When you click '**STAT**' button on the MAIN screen after classifying, you can see the most classified classes and representative images, a chart of changes in sleep position over time, and a chart of sleep position percentage indicators.
+When you click '**STAT**' button on the MAIN screen after classifying, you can see the most classified class and representative image, a chart of changes in sleep position over time, and a chart of sleep position percentage indicators.
 
 ### HISTORY2 (STAT)
 ![HISTORY2_STAT](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/bb138211-ca0e-4751-baef-936363f04f53)
 
-Like the previous HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information created in the selected txt file is output as if displayed on the STAT screen.
+Like the previous HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the STAT screen.
