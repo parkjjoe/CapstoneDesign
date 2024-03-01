@@ -47,3 +47,26 @@ When you click the image in the table below, the pros, cons and improvement info
 ![INFO3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/05f8b358-ebaa-4023-87a0-7dba67c9dc9e)
 
 When you click the '**INFO**' button on the MAIN screen after classifying, classified classes are displayed at the top, and the classes are in bold in the table below.
+
+### RECORDS
+![RECORDS1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/f7b580eb-27ab-4561-8537-0302db08a5b4)
+![RECORDS2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/07562bc6-9dc7-4783-9640-dc36fabba559)
+
+When you click '**RECORDS**' button on the MAIN screen after classifying, you can see the image extracted for each frame and the classification class of the image. If you click any image, the image will be enlarged in the center of the screen.
+
+### HISTORY (RECORDS)
+![HISTORY_RECORDS](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a1658b5e-d243-4770-ad0f-2243a7f9ee94)
+
+When you click '**HISTORY**' button on the RECORDS screen, you should choose one txt file. After that, the classification information created in the selected txt file is output as if displayed on the RECORDS screen.
+
+### STAT
+![STAT1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/a5be08b2-48bd-44b2-86f5-273c5706d3fc)
+![STAT2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/dfb9a8e8-9d18-481e-8303-86baa05a2fa2)
+![STAT3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/aaf07677-27d7-4898-b977-1e2db5c18119)
+
+When you click '**STAT**' button on the MAIN screen after classifying, you can see the most classified classes and representative images, a chart of changes in sleep position over time, and a chart of sleep position percentage indicators.
+
+### HISTORY2 (STAT)
+![HISTORY2_STAT](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/bb138211-ca0e-4751-baef-936363f04f53)
+
+Like the previous HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information created in the selected txt file is output as if displayed on the STAT screen.
