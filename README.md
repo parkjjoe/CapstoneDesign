@@ -32,6 +32,6 @@ When you click the '**CLASSIFY**' button, the images are extracted from the uplo
 
 ![classification.txt](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/4c1b239c-b8e4-41e0-a848-406433ec6832)
 
-The txt files are written as shown in the picture above. One is used in the INFO, RECORD, and STAT screens, and the other is used in the HISTORY and HISTORY2 screens. Up to 30 txt files used in HISTORY and HISTORY2 are stored, and more are stored in place of one of the oldest files.
+The txt files are written as shown in the picture above. One is used in the INFO, RECORD, and STAT screens, and the other is used in the HISTORY and HISTORY2 screens. Up to 30 txt files used in HISTORY and HISTORY2 are stored, and more are stored in place of the oldest file.
 
 ### INFO
