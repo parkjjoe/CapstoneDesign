@@ -23,12 +23,12 @@ When you first run the app, this screen appears. Only the '**INFO**' and '**SELE
 ![MAIN3_Select_Video2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/66e73211-db04-46ce-9578-bac4db5c4483)
 ![MAIN4_After_Selecting_Video](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/2789606c-58e2-437d-a89d-3ef79508df26)
 
-When you click the '**SELECT**' button, you can select a video. After selecting the video in your gallery, the video name is displayed in a black box on the MAIN screen, and the toast message '영상이 업로드되었습니다.' appears. And then, you can click the '**CLASSIFY**' button.
+When you click the '**SELECT**' button, you can select a video. After selecting the video in your gallery, the video name is displayed in a black box on the MAIN screen, and the toast message '영상이 업로드되었습니다.' appears. And then, the '**CLASSIFY**' button is activated.
 
 ![MAIN5_CLASSIFY](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/02ee86ab-976e-4f67-9392-554c93e8d986)
 ![MAIN6_After_Classifying](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/1dfdfcab-0627-41aa-8447-c1a8a2d4ee21)
 
-When you click the '**CLASSIFY**' button, the images are extracted from the uploaded video in designated frame units. The video path, classification results, and extracted frame units are written and stored in two txt files. After classifying, you can click the '**RECORDS**' and '**STAT**' buttons.
+When you click the '**CLASSIFY**' button, the images are extracted from the uploaded video in designated frame units. The video path, classification results, and extracted frame units are written and stored in two txt files. After classifying, the '**RECORDS**' and '**STAT**' buttons are activated.
 
 ![classification.txt](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/4c1b239c-b8e4-41e0-a848-406433ec6832)
 
