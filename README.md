@@ -46,7 +46,7 @@ When you click the image in the table below, the pros, cons and improvement info
 
 ![INFO3](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/05f8b358-ebaa-4023-87a0-7dba67c9dc9e)
 
-When you click the '**INFO**' button on the MAIN screen after classifying, classified classes are displayed at the top, and the classes are in bold in the table below.
+When you click the '**INFO**' button on the MAIN screen after classifying, the classified classes are displayed at the top, and the classes are in bold in the table below.
 
 ### 🟡 RECORDS
 ![RECORDS1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/f7b580eb-27ab-4561-8537-0302db08a5b4)
