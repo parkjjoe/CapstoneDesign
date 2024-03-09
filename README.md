@@ -37,7 +37,7 @@ The txt files are written as shown in the picture above. One is used in the INFO
 ### 🟠 INFO
 ![INFO1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/83f00dad-0082-4fc4-99e9-c90e598cbf01)
 
-When you click the '**INFO**' button on the MAIN screen, this screen appears.
+When you click the '**INFO**' button on the MAIN screen before classifying, this screen appears.
 
 ![INFO2](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/9cd1dc61-9625-4dfd-8c54-1cae8653612d)
 ![SOURCE1](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/37c2ce6f-b407-483e-a4ed-c4a4bfb609fd)
