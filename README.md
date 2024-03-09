@@ -69,4 +69,4 @@ When you click '**STAT**' button on the MAIN screen after classifying, you can s
 ### 🟣 HISTORY2 (STAT)
 ![HISTORY2_STAT](https://github.com/parkjjoe/sleep-position-classification/assets/105961163/bb138211-ca0e-4751-baef-936363f04f53)
 
-Like the previous HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the STAT screen.
+Like the HISTORY screen, when you click '**HISTORY**' button on the STAT screen, you should choose one txt file. After that, the classification information in the selected txt file is output as if displayed on the STAT screen.
