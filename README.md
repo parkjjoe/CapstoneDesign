@@ -20,7 +20,7 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 |**INFO**|InfoActivity.java|info.xml|back.jpg <br> back_hurray.jpg <br> back_left.jpg <br> back_right.jpg <br> front.jpg <br> front_hurray.jpg <br> front_left_raised.jpg <br> front_right_raised.jpg <br> left.jpg <br> right.jpg|
 |**SOURCE**|SourceActivity.java|source.xml|
 |**RECORDS**|RecordActivity.java|records.xml <br> dialog_image.xml|
-|**HISTORY2 (RECORDS)**|Histor2yActivity.java|history2.xml <br> dialog_image.xml|
+|**HISTORY2 (RECORDS)**|History2Activity.java|history2.xml <br> dialog_image.xml|
 |**STAT**|**Main**Activity.java|**capstonedesign**.xml|border.xml <br> border_chart.xml|
 |**HISTORY (STAT)**|HistoryActivity.java|history.xml|border.xml <br> border_chart.xml|
 
