@@ -21,7 +21,7 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 |**SOURCE**|SourceActivity.java|source.xml|
 |**RECORDS**|RecordActivity.java|records.xml|dialog_info.xml|
 |**HISTORY2 (RECORDS)**|Histor2yActivity.java|history2.xml|dialog_info.xml|
-|**STAT**|MainActivity.java|capstonedesign.xml|border.xml <br> border_chart.xml|
+|**STAT**|**Main**Activity.java|**capstonedesign**.xml|border.xml <br> border_chart.xml|
 |**HISTORY (STAT)**|HistoryActivity.java|history.xml|border.xml <br> border_chart.xml|
 
 ## Usage
