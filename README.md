@@ -14,15 +14,17 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 ![Capstone Design Flow Chart](https://github.com/parkjjoe/capstone-design/assets/105961163/65fff919-495e-40cc-a756-18885438fcb8)
 
 ## Android Studio Files Matching
-|Screen Name|.java|.xml|Additional files|
+|Screen Name|.java|.xml (@layout)|Additional files (@drawable)|
 |:---:|---|---|---|
-|**MAIN**|FirstActivity.java|first.xml|FileHelper.java <br> FileHelper2.java <br> loading.xml <br> border.xml <br> border_red.xml|
-|**INFO**|InfoActivity.java|info.xml|dialog_image.xml|
+|**MAIN**|FirstActivity.java|first.xml <br> loading.xml|FileHelper.java <br> FileHelper2.java <br> border.xml <br> border_red.xml|
+|**INFO**|InfoActivity.java|info.xml|back.jpg <br> back_hurray.jpg <br> back_left.jpg <br> back_right.jpg <br> front.jpg <br> front_hurray.jpg <br> front_left_raised.jpg <br> front_right_raised.jpg <br> left.jpg <br> right.jpg|
 |**SOURCE**|SourceActivity.java|source.xml|
-|**RECORDS**|RecordActivity.java|records.xml|dialog_info.xml|
-|**HISTORY2 (RECORDS)**|Histor2yActivity.java|history2.xml|dialog_info.xml|
+|**RECORDS**|RecordActivity.java|records.xml <br> dialog_image.xml|
+|**HISTORY2 (RECORDS)**|Histor2yActivity.java|history2.xml <br> dialog_image.xml|
 |**STAT**|**Main**Activity.java|**capstonedesign**.xml|border.xml <br> border_chart.xml|
 |**HISTORY (STAT)**|HistoryActivity.java|history.xml|border.xml <br> border_chart.xml|
+
+border_info.xml is not used.
 
 ## Usage
 ### 🔴 MAIN
