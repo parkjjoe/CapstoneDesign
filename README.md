@@ -14,7 +14,7 @@ In this work, ResNet50 was trained by Google Colab. We purchased a home CCTV and
 ![Capstone Design Flow Chart](https://github.com/parkjjoe/capstone-design/assets/105961163/65fff919-495e-40cc-a756-18885438fcb8)
 
 ## Android Studio Files Matching
-|Screen Name|.java|.xml (@layout)|Additional files (@drawable)|
+|Screen Name|.java (@java)|.xml (@layout)|Additional files (@java, @drawable)|
 |:---:|---|---|---|
 |**MAIN**|FirstActivity.java|first.xml <br> loading.xml|FileHelper.java <br> FileHelper2.java <br> border.xml <br> border_red.xml|
 |**INFO**|InfoActivity.java|info.xml|back.jpg <br> back_hurray.jpg <br> back_left.jpg <br> back_right.jpg <br> front.jpg <br> front_hurray.jpg <br> front_left_raised.jpg <br> front_right_raised.jpg <br> left.jpg <br> right.jpg|
